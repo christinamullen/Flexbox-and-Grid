@@ -34,6 +34,7 @@ header {
 .logo_header > h1 {
     color: var(--fc-header);
     padding: 1rem;
+    font-size: clamp(1.3rem, 5vw, 2.5rem);
 }
 
 
